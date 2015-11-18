@@ -4,3 +4,4 @@
 - Hernani
 - Tomato
 - Hiking
+- Favorite color: Blue
